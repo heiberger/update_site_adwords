@@ -14,6 +14,7 @@ The update_site_adwords.py script does the following actions when run at the com
 * remove_ad.py (modified from Google example code) removes any current ads based on ID numbers returned above
 * add_expanded_text_ads.py (modified from Google example code) creates a new ad using new 'sample text' as description for ad
 * googleads.yaml stores credentials for AdWords account (credentials omitted on attached version)
+* add_keywords (from Google example code) adds keywords to the ad group, in this case 'tube amps' and 'amps' are added
 
 ### other files
 * add_ad_groups.py (from Google example code) adds new ad group
